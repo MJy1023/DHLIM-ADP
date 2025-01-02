@@ -3,7 +3,7 @@
 This repository contains the official implementation of "Adaptive Dendritic Plasticity in Brain-inspired Dynamic Neural Networks for Enhanced Multi-timescale Feature Extraction" (Under Review at IEEE TNNLS).
 
 ## Coming Soon
-🚧 This repository is under construction. The code will be made publicly available upon paper acceptance.
+🚧 This repository is under construction. The code will be made publicly available soon.
 
 ## Overview
 We propose a novel brain-inspired dynamic neural network with two key innovations:
@@ -19,12 +19,12 @@ We propose a novel brain-inspired dynamic neural network with two key innovation
 ## Citation
 If you find this work useful for your research, please consider citing:
 ```bibtex
-@article{mao2024adaptive,
+@article{mao2025adaptive,
   title={Adaptive Dendritic Plasticity in Brain-inspired Dynamic Neural Networks for Enhanced Multi-timescale Feature Extraction},
   author={Mao, Jiayi},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
   note={Under Review},
-  year={2024}
+  year={2025}
 }
 ```
 
